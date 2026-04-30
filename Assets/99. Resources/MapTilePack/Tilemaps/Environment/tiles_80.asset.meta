@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc658cdf55ec7cd45b575717dff1d3ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285560
+  packageName: 1Bit Pixel art tiles
+  packageVersion: 1.0
+  assetPath: Assets/99. Resources/MapTilePack/Tilemaps/Environment/tiles_80.asset
+  uploadId: 665484

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a11214cbe0f279c43b78bec993cb07af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285560
+  packageName: 1Bit Pixel art tiles
+  packageVersion: 1.0
+  assetPath: Assets/99. Resources/MapTilePack/Materials/CRT_mat.mat
+  uploadId: 665484
