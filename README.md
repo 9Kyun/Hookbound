@@ -47,7 +47,7 @@ After clearing stages or ending a run, the player can collect currency and use i
 | Grappling Hook | Hook Button |
 | Attack / Parry | Attack Button |
 | Dash | Dash Button |
-| Slam | Jump while airborne |
+| Slam | Jump + Down while airborne |
 | Interact | E |
 | Pause | Esc |
 
